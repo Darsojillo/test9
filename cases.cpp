@@ -22,7 +22,7 @@ int main(){
  		break;
  	
  	default:
- 		cout<<"INVALID";
+ 		cout<<"LOOK AGAIN";
  		break;
  	return 0;	
  		
