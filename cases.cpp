@@ -22,7 +22,7 @@ int main(){
  		break;
  	
  	default:
- 		cout<<"LOOK AGAIN";
+ 		cout<<"LOOK ";
  		break;
  	return 0;	
  		
